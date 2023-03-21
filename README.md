@@ -2,8 +2,8 @@
 Calculator with an theme switch button
 
 <h2>Techs</h2>
-- Html <br/>
-- Css <br/>
+- HTML <br/>
+- CSS <br/>
 - JavaScript <br/>
 - Git
 
